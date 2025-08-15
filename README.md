@@ -107,9 +107,3 @@ git clone https://github.com/your-username/BusTicketReservation.git
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the **MIT License**.
-
-Do you want me to make that for you as well?
-```
